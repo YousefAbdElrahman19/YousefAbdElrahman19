@@ -1,40 +1,34 @@
 # Hi, I'm Youssef Abdelrahman 👋
 
-### Data Engineering Student | Aspiring Data Engineer
+### Data Engineering Student | Alexandria University, Egypt
 
-I'm a Computer and Data Science student at **Alexandria University, Egypt**, passionate about building reliable data pipelines, designing data architectures, and transforming raw data into meaningful insights.
+I'm a Computer and Data Science student at **Alexandria University, Egypt**, building data pipelines and ETL projects. I'm looking for a **data engineering internship**.
 
-My main focus is **Data Engineering**, with an interest in distributed data processing, ETL/ELT workflows, and modern cloud-based data platforms.
+My focus is **Data Engineering**: distributed data processing with Spark, ETL/ELT workflows, and cloud-based data platforms.
 
 ### 🛠️ Technical Skills
 
 - **Programming Languages:** Python, SQL, Java
 - **Data Processing:** Pandas, NumPy, PySpark
 - **Data Engineering:** ETL/ELT, Apache Spark, Apache Airflow
-- **Big Data & Platforms:** Databricks, Delta Lake
+- **Big Data & Platforms:** Databricks, Delta Lake, Docker
 - **Databases:** PostgreSQL, MySQL
-- **Cloud:** AWS Fundamentals
+- **Cloud:** AWS, Azure
 
 ### 🚀 Featured Projects
 
-- **Retail Analytics with PySpark** – Data processing and analytics using PySpark, focusing on transforming and analyzing retail datasets.
-- **Real-Time Traffic Analytics** – A data analytics project focused on processing traffic data and extracting meaningful insights.
-- **Olist Brazilian E-Commerce Data Pipeline** – Building a modern data pipeline using Databricks, PySpark, Auto Loader, Delta Lake, and Medallion Architecture.
+- [**Large-Scale E-Commerce Data Pipeline**](https://github.com/YousefAbdElrahman19/E-Commerce-Big-Data-Processing-Pipeline) – PySpark and Docker pipeline processing 10M+ orders with the Medallion architecture (Bronze, Silver, Gold) and data quality checks.
+- [**Real-Time Traffic Analytics**](https://github.com/YousefAbdElrahman19/Real-Time_Traffic_Analytics) – Python and Azure streaming pipeline: Event Hub, Stream Analytics, Power BI dashboards and email alerts.
+- [**Olist Brazilian E-Commerce Pipeline**](https://github.com/YousefAbdElrahman19/olist_brazilian_ecommerce_project) – Databricks, PySpark and Delta Lake pipeline using the Medallion architecture (in progress).
+- [**Amazon Electronics Project**](https://github.com/YousefAbdElrahman19/amazon_electronics_project) – Selenium scraping, Pandas cleaning and analysis of laptops, phones and smart TVs from Amazon Egypt.
 
 ### 📚 Currently Learning
 
 - Advanced Apache Spark & PySpark
-- Apache Airflow & Workflow Orchestration
-- Data Pipeline Development & Automation
-- Cloud Data Engineering
-- Data Warehouse Design & Architecture
-
-### 🎯 My Goal
-
-To become a skilled Data Engineer by building practical projects, developing strong engineering fundamentals, and continuously exploring modern data technologies.
+- Apache Airflow & workflow orchestration
+- Cloud data engineering and data warehouse design
 
 ### 📫 Let's Connect
 
 - **LinkedIn:** [Youssef Abdelrahman](https://linkedin.com/in/youssef-abdelrahman-821490350)
-- **GitHub:** [@YousefAbdElrahman19](https://github.com/YousefAbdElrahman19)
 - **Email:** [yousef2006199@gmail.com](mailto:yousef2006199@gmail.com)
