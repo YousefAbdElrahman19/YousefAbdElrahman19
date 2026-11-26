@@ -1,14 +1,14 @@
 # Hi, I'm Youssef Abdelrahman 👋
 
-### Data Engineering Student | Alexandria University, Egypt
+### Data Engineering | Alexandria University, Egypt
 
-I'm a Computer and Data Science student at **Alexandria University, Egypt**, building data pipelines and ETL projects. I'm looking for a **data engineering internship**.
+I'm focused on data pipelines and ETL projects at **Alexandria University, Egypt**. I'm looking for a **data engineering internship**.
 
 My focus is **Data Engineering**: distributed data processing with Spark, ETL/ELT workflows, and cloud-based data platforms.
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** Python, SQL, Java
+- **Programming Languages:** Python, SQL
 - **Data Processing:** Pandas, NumPy, PySpark
 - **Data Engineering:** ETL/ELT, Apache Spark, Apache Airflow
 - **Big Data & Platforms:** Databricks, Delta Lake, Docker
