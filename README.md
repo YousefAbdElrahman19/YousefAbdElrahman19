@@ -1,6 +1,6 @@
 # Hi, I'm Youssef Abdelrahman 👋
 
-### Data Engineering | Alexandria University, Egypt
+### Data Engineer | Alexandria University, Egypt
 
 I'm focused on data pipelines and ETL projects at **Alexandria University, Egypt**. I'm looking for a **data engineering internship**.
 
